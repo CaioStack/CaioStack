@@ -5,6 +5,4 @@ I'm Caio Salgado Marques. I am from Fortaleza, Ceará, Brazil. I am 16 years old
 
 📫 How to reach me caio.marques62@aluno.ifce.edu.br
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev" alt="Minhas Tecnologias" />
-</a>
+<img src="https://skillicons.dev" alt="Minhas Tecnologias" />
