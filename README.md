@@ -5,12 +5,5 @@ I'm Caio Salgado Marques. I am from Fortaleza, Ceará, Brazil. I am 16 years old
 
 📫 How to reach me caio.marques62@aluno.ifce.edu.br
 
-### 🛠️ Minhas Tecnologias
-
-* 🌐 **HTML5** &nbsp;|&nbsp; Estruturação web moderna
-* 🎨 **CSS3** &nbsp;|&nbsp; Estilização e layouts responsivos
-* ⚡ **JavaScript** &nbsp;|&nbsp; Lógica de programação e dinamicidade
-* ⚛️ **React** &nbsp;|&nbsp; Construção de interfaces de usuário (UI)
-
 Connect with me:
 caio.marques62@aluno.ifce.edu.br
