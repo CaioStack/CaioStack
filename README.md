@@ -7,7 +7,9 @@ I'm Caio Salgado Marques. I am from Fortaleza, Ceará, Brazil. I am 16 years old
 
 ### 🛠️ Minhas Tecnologias
 
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io)
+### 🛠️ Minhas Tecnologias
+
+<img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="React" />
 
 
 Connect with me:
