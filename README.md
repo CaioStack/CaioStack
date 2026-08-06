@@ -7,7 +7,3 @@ I am 16 years old and am enrolled in an integrated high school program specializ
 📚 Currently studying Java and GDScript
 
 📫 How to reach me caio.marques62@aluno.ifce.edu.br
-
-
-
-<img src="https://skillicons.dev" />
