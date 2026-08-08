@@ -28,6 +28,8 @@ I am from Fortaleza, Ceará, Brazil. I am 16 years old and am enrolled in an int
   <!-- Bash --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" height="40" alt="Bash Logo" /> <img width="12" />
   <!-- Ssh --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" height="40" alt="Ssh Logo" /> <img width="12" />
   <!-- PowerShell --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="40" alt="PShell Logo" /> <img width="12" />
+
+  <i class="devicon-ssh-original colored"></i>
   
 <h2 align="left"> 📚 Studying</h2>  <div align="left"> 
   <!-- Java --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java Logo" /> <img width="12" />
