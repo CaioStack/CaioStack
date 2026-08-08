@@ -31,6 +31,6 @@ I am from Fortaleza, Ceará, Brazil. I am 16 years old and am enrolled in an int
   
 <h2 align="left"> 📚 Studying</h2>  <div align="left"> 
   <!-- Java --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java Logo" /> <img width="12" />
-  <!-- TypeScript --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript Logo" /> <img width="12" />
   <!-- Godot --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="40" alt="Godot Logo" /> <img width="12" />
   <!-- Golang --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" height="40" alt="Golang Logo" /> <img width="12" />
+  <!-- TypeScript --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript Logo" /> <img width="12" />
