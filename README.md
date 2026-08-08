@@ -24,7 +24,6 @@ I am from Fortaleza, Ceará, Brazil. I am 16 years old and am enrolled in an int
   <!-- PyCharm --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" /> <img width="12" />
   <!-- MySQL --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" /> <img width="12" />
   <!-- Git --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />   <img width="12" />
-  <!-- GitHub --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub Logo" /> <img width="12" />
   <!-- Linux --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />   <img width="12" />
   <!-- Bash --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" height="40" alt="Bash Logo" /> <img width="12" />
   <!-- Ssh --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" height="40" alt="Ssh Logo" /> <img width="12" />
