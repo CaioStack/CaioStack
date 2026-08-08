@@ -16,7 +16,6 @@ I am from Fortaleza, Ceará, Brazil. I am 16 years old and am enrolled in an int
 
 <h2 align="left"> 🛠️ My Skills</h2>  <div align="left">   
   <!-- JavaScript --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />   <img width="12" />
-  <!-- TypeScript --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript Logo" /> <img width="12" />
   <!-- Python --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />   <img width="12" />
   <!-- HTML5 --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />   <img width="12" />
   <!-- CSS3 --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />   <img width="12" />
@@ -31,6 +30,6 @@ I am from Fortaleza, Ceará, Brazil. I am 16 years old and am enrolled in an int
   <!-- PowerShell --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" height="40" alt="PShell Logo" /> <img width="12" />
   
 <h2 align="left"> 📚 Studying</h2>  <div align="left"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="40" />
+  <!-- Java --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java Logo" /> <img width="12" />
+  <!-- TypeScript --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript Logo" /> <img width="12" />
+  <!-- Godot --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="40" alt="Godot Logo" /> <img width="12" />
