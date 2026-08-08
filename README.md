@@ -14,7 +14,7 @@ I am from Fortaleza, Ceará, Brazil. I am 16 years old and am enrolled in an int
 
 🌱 In my free time, I read books or play online games.
 
-<h2 align="left"> 💻 I Code With</h2>  <div align="left">   
+<h2 align="left"> 🛠️ My Skills</h2>  <div align="left">   
   <!-- JavaScript --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />   <img width="12" />
   <!-- TypeScript --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript Logo" /> <img width="12" />
   <!-- Python --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />   <img width="12" />
