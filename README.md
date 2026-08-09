@@ -10,7 +10,7 @@ I'm Caio Salgado Marques.
 
 </div>
 
-I am from Fortaleza, Ceará, Brazil. I am 16 years old and am enrolled in an integrated high school program specializing in IT at the Federal Institute. And I like studying and playing online games.
+I am from Fortaleza, Ceará, Brazil. I am 16 years old and am enrolled in an integrated high school program specializing in IT at the Federal Institute. And I like studying and play games.
 
 🌱 In my free time, I read books or play games.
 
