@@ -16,11 +16,6 @@ I'm a 16-year-old student from Fortaleza, Ceará, Brazil, currently enrolled in 
 
 🎯 My objective is to become a cybersecurity professional.
 
-<h2 align="left"> ⚙️ The IDE'S I use</h2>  <div align="left">
- <!-- VsCode --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="Vscode Logo" /> <img width="12" />
- <!-- PyCharm --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" /> <img width="12" />
- <!-- Godot --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="40" alt="Godot Logo" /> <img width="12" />
-
 <h2 align="left"> 🛠️ My Skills</h2>  <div align="left">   
   <!-- JavaScript --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />   <img width="12" />
   <!-- Python --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />   <img width="12" />
@@ -32,6 +27,14 @@ I'm a 16-year-old student from Fortaleza, Ceará, Brazil, currently enrolled in 
   <!-- Bash --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" height="40" alt="Bash Logo" /> <img width="12" />
   <!-- Ssh --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" height="40" alt="Ssh Logo" /> <img width="12" />
   <!-- PowerShell --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="40" alt="PShell Logo" /> <img width="12" />
+
+
+<h2 align="left"> ⚙️ The IDE'S I use</h2>  <div align="left">
+  <!-- VsCode --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="Vscode Logo" /> <img width="12" />
+  <!-- PyCharm --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" /> <img width="12" />
+  <!-- Godot --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="40" alt="Godot Logo" /> <img width="12" />
+  <!-- Eclipse --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse Logo" /> <img width="12" />
+  <!-- NetBeans -->
 
 <h2 align="left"> 📚 Studying</h2>  <div align="left"> 
   <!-- Java --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java Logo" /> <img width="12" />
