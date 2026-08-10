@@ -28,7 +28,7 @@ I'm a 16-year-old student from Fortaleza, Ceará, Brazil, currently enrolled in 
   <!-- Ssh --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" height="40" alt="Ssh Logo" /> <img width="12" />
   <!-- PowerShell --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="40" alt="PShell Logo" /> <img width="12" />
 
-<h2 align="left"> 🛠️ The IDE'S I use</h2>  <div align="left">
+<h2 align="left"> ⚙️ The IDE'S I use</h2>  <div align="left">
  <!-- VsCode --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="Vscode Logo" /> <img width="12" />
  <!-- PyCharm --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" /> <img width="12" />
  <!-- Godot --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="40" alt="Godot Logo" /> <img width="12" />
