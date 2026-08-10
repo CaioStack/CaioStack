@@ -34,7 +34,7 @@ I'm a 16-year-old student from Fortaleza, Ceará, Brazil, currently enrolled in 
   <!-- PyCharm --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" /> <img width="12" />
   <!-- Godot --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="40" alt="Godot Logo" /> <img width="12" />
   <!-- Eclipse --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse Logo" /> <img width="12" />
-  <!-- NetBeans -->
+  <!-- NetBeans --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" height="40" alt="NetBeans Logo" /> <img width="12" />
 
 <h2 align="left"> 📚 Studying</h2>  <div align="left"> 
   <!-- Java --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java Logo" /> <img width="12" />
