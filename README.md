@@ -30,4 +30,5 @@ I'm a 16-year-old student from Fortaleza, Ceará, Brazil, currently enrolled in 
 
 <h2 align="left"> 📚 Studying</h2>  <div align="left"> 
   <!-- Java --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java Logo" /> <img width="12" />
+  <!-- C++ --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++" /> <img width="12" />
   <!-- Golang --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="40" alt="Golang Logo" /> <img width="12" />
