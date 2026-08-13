@@ -24,7 +24,7 @@ I'm a 16-year-old student from Fortaleza, Ceará, Brazil, currently enrolled in 
   <!-- MySQL --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" /> <img width="12" />
   <!-- Git --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />   <img width="12" />
   <!-- Linux --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />   <img width="12" />
-  <!-- Bash --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" height="40" alt="Bash Logo" /> <img width="12" />
+  <!-- Bash --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="Bash Logo" /> <img width="12" />
 
 <h2 align="left"> 📚 Studying</h2>  <div align="left"> 
   <!-- Java --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java Logo" /> <img width="12" />
