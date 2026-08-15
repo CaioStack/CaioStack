@@ -16,7 +16,7 @@ I'm a 16-year-old student from Fortaleza, Ceará, Brazil, currently enrolled in 
 
 🎯 My objective is to become a cybersecurity professional.
 
-<h2 align="left"> 🛠️ My Skills</h2>  <div align="center">   
+<h2 align="center"> 🛠️ My Skills</h2>  <div align="center">   
   <!-- Python --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />   <img width="12" />
   <!-- JavaScript --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />   <img width="12" />
   <!-- HTML5 --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />   <img width="12" />
@@ -26,7 +26,7 @@ I'm a 16-year-old student from Fortaleza, Ceará, Brazil, currently enrolled in 
   <!-- Linux --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />   <img width="12" />
   <!-- Bash --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="Bash Logo" /> <img width="12" />
 
-<h2 align="left"> 📚 Studying</h2>  <div align="center"> 
+<h2 align="center"> 📚 Studying</h2>  <div align="center"> 
   <!-- Java --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java Logo" /> <img width="12" />
   <!-- C++ --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++" /> <img width="12" />
   <!-- Golang --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="40" alt="Golang Logo" /> <img width="12" />
