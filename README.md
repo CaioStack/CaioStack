@@ -30,4 +30,5 @@ I'm a 17-year-old student from Fortaleza, Ceará, Brazil, currently enrolled in 
 <h2 align="center"> 📚 Studying</h2>  <div align="center"> 
   <!-- C++ --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++" /> <img width="12" />
   <!-- Arduino --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40" alt="ArduinoLogo" /> <img width="12" />
-  <!-- Docker --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Java Logo" /> <img width="12" />
+  <!-- Docker --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker Logo" /> <img width="12" />
+  <!-- Php --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="Php Logo" /> <img width="12" />
