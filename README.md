@@ -15,20 +15,3 @@ I'm a 17-year-old student from Fortaleza, Ceará, Brazil, currently enrolled in 
 🌱 In my free time, I like studying, reading books or playing games.
 
 🎯 My objective is to become a cybersecurity professional.
-
-<h2 align="center"> 🛠️ My Skills</h2>  <div align="center">   
-  <!-- Python --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />   <img width="12" />
-  <!-- JavaScript --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />   <img width="12" />
-  <!-- HTML5 --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />   <img width="12" />
-  <!-- CSS3 --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />   <img width="12" />
-  <!-- MySQL --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" /> <img width="12" />
-  <!-- Git --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />   <img width="12" />
-  <!-- Linux --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />   <img width="12" />
-  <!-- Bash --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="Bash Logo" /> <img width="12" />
-  <!-- Java --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java Logo" /> <img width="12" />
-
-<h2 align="center"> 📚 Studying</h2>  <div align="center"> 
-  <!-- C++ --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++" /> <img width="12" />
-  <!-- Arduino --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40" alt="ArduinoLogo" /> <img width="12" />
-  <!-- Docker --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker Logo" /> <img width="12" />
-  <!-- Php --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="Php Logo" /> <img width="12" />
